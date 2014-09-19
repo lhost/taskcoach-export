@@ -1,0 +1,8 @@
+
+Install the following Perl modules:
+
+ apt-get install \
+        libdatetime-perl \
+        libdatetime-format-mysql-perl \
+        libnet-subnet-perl
+
